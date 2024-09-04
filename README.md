@@ -14,7 +14,7 @@ This repository contains the project for **Practical Application Assignment 11.1
 
 ## Project Description
 
-The goal of my project is to determine the factors that drive the prices of used cars. By analyzing a dataset containing various attributes of used cars, I aim to provide insights that can help used car dealerships better understand consumer preferences and fine-tune their inventory.
+The goal of this project is to explore a dataset sourced from Kaggle that contains detailed information on 426,000 used cars, a subset of the original dataset of 3 million cars, to ensure faster processing. By analyzing this data, the aim is to understand the factors that influence the price of a used car. As a result of this analysis, I will provide clear recommendations to a used car dealership on what attributes consumers find most valuable in a used car.
 
 #### Note on Data Transformation:
 
