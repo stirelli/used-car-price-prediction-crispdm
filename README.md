@@ -1,4 +1,4 @@
-# The objective of this project is to analyze what factors influence the price of used cars using the CRISP-DM (Cross Industry Standard Process for Data Mining) methodology.
+#### The objective of this project is to analyze what factors influence the price of used cars using the CRISP-DM (Cross Industry Standard Process for Data Mining) methodology.
 
 ## Table of Contents
 - [View the Jupyter Notebook](prompt_II.ipynb)
