@@ -1,6 +1,4 @@
-# Used Car Price Prediction - CRISP-DM
-
-This repository contains the project for **Practical Application Assignment 11.1: What Drives the Price of a Car?**. The objective of this project is to analyze what factors influence the price of used cars using the CRISP-DM (Cross Industry Standard Process for Data Mining) methodology.
+# The objective of this project is to analyze what factors influence the price of used cars using the CRISP-DM (Cross Industry Standard Process for Data Mining) methodology.
 
 ## Table of Contents
 - [View the Jupyter Notebook](prompt_II.ipynb)
